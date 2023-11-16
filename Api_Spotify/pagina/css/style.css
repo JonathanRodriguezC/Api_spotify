@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(198, 241, 204);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #1db954;
+}
+
+#login-button {
+    background-color: #1db954;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#login-message {
+    display: none;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+}
+
+#welcome-message {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#user-name {
+    font-weight: bold;
+    color: #1db954;
+}
+
+#correo {
+    font-style: italic;
+    color: #1db954;
+}
